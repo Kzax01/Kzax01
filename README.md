@@ -1,4 +1,4 @@
-## 💫 Hi I'm Kenza 🥳
+## 💫 Hi I'm Kenza 
 # Welcome to my GitHub!<br> 
 🚀 About Me:<br> Random french student specialized in Aerospace Cybersecurity AI Analysis sharing her journey.
 
@@ -20,7 +20,7 @@ New projects are coming 🏗️<br>
 
 
 ## 🌐 Let's connect :
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Kzax01) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/kzax01) 
 
 
 # 📊 GitHub Stats:
