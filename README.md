@@ -1,6 +1,6 @@
 ## 💫 Hi I'm Kenza 
 # Welcome to my GitHub!<br> 
-🚀 About Me:<br> Random French student specialized in Aerospace Cybersecurity AI Analysis sharing her journey.
+🚀 About Me:<br> A random French student specialized in Aerospace Cybersecurity AI Analysis sharing her journey.
 
 Let's make the skies safer together! ✈️<br>
 New projects are coming 🏗️ <br> 
