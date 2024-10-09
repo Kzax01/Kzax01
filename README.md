@@ -18,6 +18,13 @@ Let's secure the cloud together! ☁️🔒
 ![Network Hardening](https://img.shields.io/badge/Network_Hardening-%23000000?style=plastic&logoColor=white&labelColor=0078D6)![Monitoring](https://img.shields.io/badge/Monitoring-%23000000?style=plastic&logoColor=white&labelColor=FFA500)![Security](https://img.shields.io/badge/Security-%23000000?style=plastic&logoColor=white&labelColor=DC143C)![Blue Team](https://img.shields.io/badge/Blue_Team-%23000000?style=plastic&logoColor=white&labelColor=0000CD)![Compliance](https://img.shields.io/badge/Compliance-%23000000?style=plastic&logoColor=white&labelColor=8B008B)![GDPR](https://img.shields.io/badge/GDPR-%23000000?style=plastic&logoColor=white&labelColor=FF69B4)![Defense](https://img.shields.io/badge/Defense-%23000000?style=plastic&logoColor=white&labelColor=32CD32)![Data Protection](https://img.shields.io/badge/Data_Protection-%23000000?style=plastic&logoColor=white&labelColor=00FF7F)![IAM](https://img.shields.io/badge/IAM-%23000000?style=plastic&logoColor=white&labelColor=00FFFF)![MFA](https://img.shields.io/badge/MFA-%23000000?style=plastic&logoColor=white&labelColor=FF4500)![Investigation](https://img.shields.io/badge/Investigation-%23000000?style=plastic&logoColor=white&labelColor=FFD700)![Mitigation](https://img.shields.io/badge/Mitigation-%23000000?style=plastic&logoColor=white&labelColor=ADFF2F)![OSI Model](https://img.shields.io/badge/OSI_Model-%23000000?style=plastic&logoColor=white&labelColor=4682B4)![TCP/IP](https://img.shields.io/badge/TCP_IP-%23000000?style=plastic&logoColor=white&labelColor=FF6347)![UDP](https://img.shields.io/badge/UDP-%23000000?style=plastic&logoColor=white&labelColor=8B4513)![Risk Assessment](https://img.shields.io/badge/Risk_Assessment-%23000000?style=plastic&logoColor=white&labelColor=008B8B)![Disaster Recovery](https://img.shields.io/badge/Disaster_Recovery-%23000000?style=plastic&logoColor=white&labelColor=6A5ACD)
 
 
+## 🌟 AWS Architecture Projects 🛠️
+
+Check out my collection of AWS Architecture projects where I design solutions based on real-life scenarios. Each project includes diagrams and detailed explanations.
+
+- **[AWS Architecture Projects Directory](https://github.com/Kzax01/AWS-Architecture-Projects/tree/main)** 
+
+
 ## 🐍 Languages Used:
 ![Python](https://img.shields.io/badge/Python-%23000000?style=plastic&logo=python&logoColor=white&labelColor=3776AB)![PowerShell](https://img.shields.io/badge/PowerShell-%23000000?style=plastic&logo=powershell&logoColor=white&labelColor=5391FE)![Bash](https://img.shields.io/badge/Bash-%23000000?style=plastic&logo=gnu-bash&logoColor=white&labelColor=4EAA25)
 
