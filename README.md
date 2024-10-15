@@ -1,6 +1,6 @@
 ## 💫 Hi I'm Kenza 
 # Welcome to my GitHub!<br> 
-🚀 About Me:<br> I’m a random French student specialized in Cybersecurity & Cloud Computing 🌥️, aspiring to become a **Multi-Cloud Security Architect** (AWS/Azure) while sharing my journey. 
+🚀 About Me:<br> I’m a random French student specialized in Cybersecurity & Cloud Computing 🌥️, aspiring to become an **AWS Cloud Security Architect** while sharing my journey. 
 
 Currently preparing for the **AWS Solutions Architect Associate** certification, I’m working on projects that involve designing AWS Solutions based on real-life scenarios with diagrams created using **draw.io**. 
 
