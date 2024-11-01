@@ -20,9 +20,12 @@ Let's secure the cloud together! ☁️🔒
 
 ## 🌟 AWS Architecture Projects 🛠️
 
-Check out my collection of AWS Architecture projects where I design solutions based on real-life scenarios. Each project includes diagrams and detailed explanations.
+Check out my collection of AWS Architecture projects where I design solutions based on real-life scenarios and/or I create full articles to breakdown difficult concepts into easy ones :
 
-- **[AWS Architecture Projects Directory](https://github.com/Kzax01/AWS-Architecture-Projects/tree/main)** 
+- **[ 🎉 Mastering the AWS Certified Cloud Practitioner (CCP) Exam](https://github.com/Kzax01/Master-the-AWS-cloud-practitioner-cert)**
+- **[🛒 Project 1: Migrating an E-commerce Website with Variable Traffic](https://github.com/Kzax01/AWS-E-commerce-migration-architecture)**
+- **[ 🐳 Docker Image Creation and Deployment on AWS Elastic Beanstalk](https://github.com/Kzax01/Use-Docker-in-AWS-Elastic-Beanstalk)**
+- **[🔄 Complete CI/CD Guide: From Theory to Practice - Part 1](https://github.com/Kzax01/AWS-CI-CD-Pipeline)**
 
 
 ## 🐍 Languages Used:
