@@ -25,7 +25,7 @@ Check out my collection of AWS Architecture projects where I design solutions ba
 - **[ 🎉 Mastering the AWS Certified Cloud Practitioner (CCP) Exam](https://github.com/Kzax01/Master-the-AWS-cloud-practitioner-cert)**
 - **[🛒 Project 1: Migrating an E-commerce Website with Variable Traffic](https://github.com/Kzax01/AWS-E-commerce-migration-architecture)**
 - **[ 🐳 Docker Image Creation and Deployment on AWS Elastic Beanstalk](https://github.com/Kzax01/Use-Docker-in-AWS-Elastic-Beanstalk)**
-- **[🔄 Complete CI/CD Guide: From Theory to Practice - Part 1](https://github.com/Kzax01/AWS-CI-CD-Pipeline)**
+- **[🔄 Complete CI/CD Guide: From Theory to Practice](https://github.com/Kzax01/AWS-CI-CD-Pipeline)**
 
 
 ## 🐍 Languages Used:
