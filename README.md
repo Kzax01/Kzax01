@@ -46,6 +46,7 @@ Check out my collection of AWS Architecture projects where I design solutions ba
 - **[🛒 How to Migrate an E-commerce Website with Variable Traffic to AWS](https://github.com/Kzax01/AWS-E-commerce-migration-architecture)**
 - **[ 🐳 Docker Image Creation and Deployment on AWS Elastic Beanstalk](https://github.com/Kzax01/Use-Docker-in-AWS-Elastic-Beanstalk)**
 - **[🔄 Complete CI/CD Guide: From Theory to Practice](https://github.com/Kzax01/AWS-CI-CD-Pipeline)**
+- **[🎯 Looking to pass the AWS Solution Architect Associate (SAA) ? Checkout my guide, tips, insight](https://github.com/Kzax01/Cracking-the-AWS-SAA-Exam-Tips-Resources-and-My-Personal-Experience)**
 
 
 ## **🐍 Languages Used**:
