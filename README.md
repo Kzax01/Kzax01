@@ -10,8 +10,8 @@ Feel free to explore my journey towards becoming an **AWS Cloud Security Enginee
 ## 🎓 Certifications :
 
 [![ISC2 - Certified In Cybersecurity](https://img.shields.io/badge/ISC2%20Certified%20In%20Cybersecurity-%23000000?style=plastic&logo=isc2&logoColor=white&labelColor=blue)](https://www.isc2.org/)
-[![AWS Certified Solutions Architect - Associate](https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect-%23000000?style=plastic&logo=amazon-aws&logoColor=white&label=AWS&labelColor=ff9900)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
-[![AWS Certified Cloud Security Specialty](https://img.shields.io/badge/AWS%20Certified%20Cloud%20Security%20Specialty-%23000000?style=plastic&logo=amazon-aws&logoColor=white&label=AWS&labelColor=32CD32)](https://aws.amazon.com/certification/certified-security-specialty/)
+[![AWS Certified Solutions Architect - Associate](https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect-%23000000?style=plastic&logo=amazon-aws&logoColor=white&label=AWS&labelColor=ff9900)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-%23000000?style=plastic&logo=amazon-aws&logoColor=white&label=AWS&labelColor=32CD32)](https://aws.amazon.com/certification/cloud-practitioner/)
+
 
 
 
