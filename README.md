@@ -4,7 +4,7 @@
 Feel free to explore my journey towards becoming an **AWS Cloud Security Engineer**! 🚀
 
 
-![Bannière Cloud](https://github.com/Kzax01/Master-the-AWS-cloud-practitioner-cert/blob/main/banner%20Kenza%20Cloud%20.png)
+[Bannière Cloud](https://github.com/Kzax01/Master-the-AWS-cloud-practitioner-cert/blob/main/banner%20Kenza%20Cloud%20.png)
 
 
 
