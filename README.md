@@ -7,6 +7,7 @@ Feel free to explore my journey towards becoming an **AWS Cloud Security Enginee
 ![Bannière Cloud](https://github.com/Kzax01/Master-the-AWS-cloud-practitioner-cert/blob/main/banner%20Kenza%20Cloud%20.png?raw=true)
 
 
+
 ## 🎓 Certifications :
 
 [![ISC2 - Certified In Cybersecurity](https://img.shields.io/badge/ISC2%20Certified%20In%20Cybersecurity-%23000000?style=plastic&logo=isc2&logoColor=white&labelColor=blue)](https://www.isc2.org/)
