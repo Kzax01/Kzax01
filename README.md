@@ -19,8 +19,6 @@ Feel free to explore my journey towards becoming an **AWS Cloud Security Enginee
 
 [![AWS Certified Security Specialty](https://img.shields.io/badge/AWS%20Certified%20Security%20Specialty-%23000000?style=plastic&logo=amazon-aws&logoColor=white&label=AWS&labelColor=ff4f00)](https://aws.amazon.com/certification/certified-security-specialty/)
 [![HashiCorp Terraform](https://img.shields.io/badge/HashiCorp%20Terraform-%23000000?style=plastic&logo=terraform&logoColor=white&labelColor=7F5FB3)](https://www.hashicorp.com/certifications)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-%23000000?style=plastic&logo=kubernetes&logoColor=white&labelColor=326CE5)](https://www.cncf.io/certification/)
-
 
 
 ## **🔐 Cloud Security Expertise** :
