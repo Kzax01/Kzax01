@@ -62,7 +62,6 @@ Looking for **Cloud Computing Security** articles? Check out my **Medium**!
   </a>
 </p>
 
----
 
 ### ☁️ Let’s build the future of cloud together!  
 
