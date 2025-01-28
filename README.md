@@ -44,10 +44,28 @@ Check out my collection of AWS Architecture projects where I design solutions ba
 ## **🐍 Languages Used**:
 ![Python](https://img.shields.io/badge/Python-%23000000?style=plastic&logo=python&logoColor=white&labelColor=3776AB)![Bash](https://img.shields.io/badge/Bash-%23000000?style=plastic&logo=gnu-bash&logoColor=white&labelColor=4EAA25)
 
+## 💬 Let’s Connect!  
+Thank you for visiting my GitHub! 🌸  
 
-## **🌐 Let's connect** :
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/kzax01) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenza-s-cyber-cloud)
+Here, I share my **Cloud Security projects** and **AWS learning journey**.  
+Looking for **Cloud Computing Security** articles? Check out my **Medium**!  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kenza-in-the-cloud/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://discord.com/users/kzax01" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <a href="https://medium.com/@Kenza.In.The.Cloud" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+  </a>
+</p>
+
+---
+
+### ☁️ Let’s build the future of cloud together!  
+
 
 [![](https://visitcount.itsvg.in/api?id=Kzax01&icon=6&color=5)](https://visitcount.itsvg.in)
 
