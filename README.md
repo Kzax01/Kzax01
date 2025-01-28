@@ -1,5 +1,3 @@
-# 💫 **Hello!**  
-
 <div align="center">
   <img src="https://github.com/Kzax01/Kzax01/blob/main/banner%20github%20kenza.gif" alt="Banner GitHub Kenza">
 </div>
