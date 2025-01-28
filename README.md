@@ -1,8 +1,10 @@
-# 💫 **Hello, I'm Kenza!**  
-### Welcome to my GitHub, where the cloud meets security 🌥️🔐
+# 💫 **Hello!**  
+
+<div align="center">
+  <img src="https://github.com/Kzax01/Kzax01/blob/main/banner%20github%20kenza.gif" alt="Banner GitHub Kenza">
+</div>
 
 
-![Kenza Cloud Banner](https://raw.githubusercontent.com/Kzax01/Master-the-AWS-cloud-practitioner-cert/main/banner%20Kenza%20Cloud%20.png)
 
 <p align="center"><em>Feel free to explore my journey towards becoming an AWS Cloud Security Engineer! 🚀</em></p>
 
