@@ -8,13 +8,14 @@
 
 ## 🎓 Certifications :
 
-[![ISC2 - Certified In Cybersecurity](https://img.shields.io/badge/ISC2%20Certified%20In%20Cybersecurity-%23000000?style=plastic&logo=isc2&logoColor=white&labelColor=blue)](https://www.isc2.org/)
-[![AWS Certified Solutions Architect - Associate](https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect-%23000000?style=plastic&logo=amazon-aws&logoColor=white&label=AWS&labelColor=ff9900)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-%23000000?style=plastic&logo=amazon-aws&logoColor=white&label=AWS&labelColor=32CD32)](https://aws.amazon.com/certification/cloud-practitioner/)
+[![AWS Certified Solutions Architect - Associate](https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect-%23000000?style=plastic&logo=amazon-aws&logoColor=white&label=AWS&labelColor=ff9900)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+![HashiCorp Terraform](https://img.shields.io/badge/HashiCorp%20Terraform-%23000000?style=plastic&logo=terraform&logoColor=white&labelColor=7F5FB3)
+[![ISC2 - Certified In Cybersecurity](https://img.shields.io/badge/ISC2%20Certified%20In%20Cybersecurity-%23000000?style=plastic&logo=isc2&logoColor=white&labelColor=blue)](https://www.isc2.org/)[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-%23000000?style=plastic&logo=amazon-aws&logoColor=white&label=AWS&labelColor=32CD32)](https://aws.amazon.com/certification/cloud-practitioner/)
 
 
 ## 🚀 In Progress : 
 
-![HashiCorp Terraform](https://img.shields.io/badge/HashiCorp%20Terraform-%23000000?style=plastic&logo=terraform&logoColor=white&labelColor=7F5FB3) ![Progress 80%](https://img.shields.io/badge/Progress-80%25-%23000000?style=flat-square&color=7F5FB3&labelColor=black) &nbsp;- &nbsp; ![AWS Certified Security Specialty](https://img.shields.io/badge/AWS%20Certified%20Security%20Specialty-%23000000?style=plastic&logo=amazon-aws&logoColor=white&labelColor=ff4f00) ![Progress Soon](https://img.shields.io/badge/Progress-Soon-%237F5FB3?style=flat-square&labelColor=black)
+ ![AWS Certified Security Specialty](https://img.shields.io/badge/AWS%20Certified%20Security%20Specialty-%23000000?style=plastic&logo=amazon-aws&logoColor=white&labelColor=ff4f00) ![Progress Soon](https://img.shields.io/badge/Progress-Soon-%237F5FB3?style=flat-square&labelColor=black)
 
 
 ## **🔐 Cloud Security Expertise** : 
@@ -39,6 +40,8 @@ Check out my collection of AWS Architecture projects where I design solutions ba
 - **[ 🐳 Docker Image Creation and Deployment on AWS Elastic Beanstalk](https://github.com/Kzax01/Use-Docker-in-AWS-Elastic-Beanstalk)**
 - **[🔄 Complete CI/CD Guide: From Theory to Practice](https://github.com/Kzax01/AWS-CI-CD-Pipeline)**
 - **[🎯 Looking to pass the AWS Solution Architect Associate (SAA) ? Checkout my guide, tips, insight](https://github.com/Kzax01/Cracking-the-AWS-SAA-Exam-Tips-Resources-and-My-Personal-Experience)**
+
+  ## > **AWS Security projects coming soon!**
 
 
 ## **🐍 Languages Used**:
