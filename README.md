@@ -19,7 +19,7 @@
 
 
 ## **🔐 Cloud Security Expertise** : 
-![AWS](https://img.shields.io/badge/AWS-%23000000?style=plastic&logo=amazon-aws&logoColor=white&labelColor=ff0000)![Cloud Security](https://img.shields.io/badge/Cloud_Security-%23000000?style=plastic&logoColor=white&labelColor=00ff00)  ![IAM](https://img.shields.io/badge/IAM-%23000000?style=plastic&logoColor=white&labelColor=00ffff) ![AWS Well-Architected](https://img.shields.io/badge/AWS_Well_Architected-%23000000?style=plastic&logoColor=white&labelColor=8000ff)  ![Docker](https://img.shields.io/badge/Docker-%23000000?style=plastic&logo=docker&logoColor=white&labelColor=00ff00) ![Terraform](https://img.shields.io/badge/Terraform-%23000000?style=plastic&logo=terraform&logoColor=white&labelColor=0000ff)![Serverless](https://img.shields.io/badge/Serverless-%23000000?style=plastic&logoColor=white&labelColor=8000ff)  ![Cost-Optimized](https://img.shields.io/badge/Cost_Optimized-%23000000?style=plastic&logo=amazon-aws&logoColor=white&labelColor=ffcc00)  ![High-Performing](https://img.shields.io/badge/High_Performing-%23000000?style=plastic&logo=amazon-aws&logoColor=white&labelColor=ff6600) ![Resilient](https://img.shields.io/badge/Resilient-%23000000?style=plastic&logo=amazon-aws&logoColor=white&labelColor=00ff00) ![Secure Architectures](https://img.shields.io/badge/Secure_Architectures-%23000000?style=plastic&logo=lock&logoColor=white&labelColor=ff4444)
+![AWS](https://img.shields.io/badge/AWS-%23000000?style=plastic&logo=amazon-aws&logoColor=white&labelColor=ff0000)![Cloud Security](https://img.shields.io/badge/Cloud_Security-%23000000?style=plastic&logoColor=white&labelColor=00ff00)  ![IAM](https://img.shields.io/badge/IAM-%23000000?style=plastic&logoColor=white&labelColor=00ffff) ![AWS Well-Architected](https://img.shields.io/badge/AWS_Well_Architected-%23000000?style=plastic&logoColor=white&labelColor=8000ff)  ![Terraform](https://img.shields.io/badge/Terraform-%23000000?style=plastic&logo=terraform&logoColor=white&labelColor=0000ff)![Serverless](https://img.shields.io/badge/Serverless-%23000000?style=plastic&logoColor=white&labelColor=8000ff)  ![Cost-Optimized](https://img.shields.io/badge/Cost_Optimized-%23000000?style=plastic&logo=amazon-aws&logoColor=white&labelColor=ffcc00)  ![High-Performing](https://img.shields.io/badge/High_Performing-%23000000?style=plastic&logo=amazon-aws&logoColor=white&labelColor=ff6600) ![Resilient](https://img.shields.io/badge/Resilient-%23000000?style=plastic&logo=amazon-aws&logoColor=white&labelColor=00ff00) ![Secure Architectures](https://img.shields.io/badge/Secure_Architectures-%23000000?style=plastic&logo=lock&logoColor=white&labelColor=ff4444)
 
 
 
@@ -31,17 +31,15 @@
 
 
 
-## **🌟 AWS Architecture Projects 🛠️** :
+## **🌟 AWS Cloud Security Projects / Certs Tips 🛠️** :
 
 Check out my collection of AWS Architecture projects where I design solutions based on real-life scenarios and/or I create full articles to breakdown difficult concepts into easy ones :
 
 - **[ 🎉 Mastering the AWS Certified Cloud Practitioner (CCP) Exam](https://github.com/Kzax01/Master-the-AWS-cloud-practitioner-cert)**
 - **[🛒 How to Migrate an E-commerce Website with Variable Traffic to AWS](https://github.com/Kzax01/AWS-E-commerce-migration-architecture)**
-- **[ 🐳 Docker Image Creation and Deployment on AWS Elastic Beanstalk](https://github.com/Kzax01/Use-Docker-in-AWS-Elastic-Beanstalk)**
-- **[🔄 Complete CI/CD Guide: From Theory to Practice](https://github.com/Kzax01/AWS-CI-CD-Pipeline)**
 - **[🎯 Looking to pass the AWS Solution Architect Associate (SAA) ? Checkout my guide, tips, insight](https://github.com/Kzax01/Cracking-the-AWS-SAA-Exam-Tips-Resources-and-My-Personal-Experience)**
 
-  ## > **AWS Security projects coming soon!**
+  # -> **🚧 AWS Security projects coming soon! 🚧**
 
 
 ## **🐍 Languages Used**:
