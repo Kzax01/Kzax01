@@ -22,28 +22,35 @@
 ![AWS](https://img.shields.io/badge/AWS-%23000000?style=plastic&logo=amazon-aws&logoColor=white&labelColor=ff0000)![Cloud Security](https://img.shields.io/badge/Cloud_Security-%23000000?style=plastic&logoColor=white&labelColor=00ff00)  ![IAM](https://img.shields.io/badge/IAM-%23000000?style=plastic&logoColor=white&labelColor=00ffff) ![AWS Well-Architected](https://img.shields.io/badge/AWS_Well_Architected-%23000000?style=plastic&logoColor=white&labelColor=8000ff)  ![Terraform](https://img.shields.io/badge/Terraform-%23000000?style=plastic&logo=terraform&logoColor=white&labelColor=0000ff)![Serverless](https://img.shields.io/badge/Serverless-%23000000?style=plastic&logoColor=white&labelColor=8000ff)  ![Cost-Optimized](https://img.shields.io/badge/Cost_Optimized-%23000000?style=plastic&logo=amazon-aws&logoColor=white&labelColor=ffcc00)  ![High-Performing](https://img.shields.io/badge/High_Performing-%23000000?style=plastic&logo=amazon-aws&logoColor=white&labelColor=ff6600) ![Resilient](https://img.shields.io/badge/Resilient-%23000000?style=plastic&logo=amazon-aws&logoColor=white&labelColor=00ff00) ![Secure Architectures](https://img.shields.io/badge/Secure_Architectures-%23000000?style=plastic&logo=lock&logoColor=white&labelColor=ff4444)
 
 
-
-
 ## **🛡️ Cybersecurity Skills** :
 ![Network Hardening](https://img.shields.io/badge/Network_Hardening-%23000000?style=plastic&logoColor=white&labelColor=0078D6)![Monitoring](https://img.shields.io/badge/Monitoring-%23000000?style=plastic&logoColor=white&labelColor=FFA500)![Security](https://img.shields.io/badge/Security-%23000000?style=plastic&logoColor=white&labelColor=DC143C)![Blue Team](https://img.shields.io/badge/Blue_Team-%23000000?style=plastic&logoColor=white&labelColor=0000CD)![Compliance](https://img.shields.io/badge/Compliance-%23000000?style=plastic&logoColor=white&labelColor=8B008B)![GDPR](https://img.shields.io/badge/GDPR-%23000000?style=plastic&logoColor=white&labelColor=FF69B4)![Defense](https://img.shields.io/badge/Defense-%23000000?style=plastic&logoColor=white&labelColor=32CD32)![Data Protection](https://img.shields.io/badge/Data_Protection-%23000000?style=plastic&logoColor=white&labelColor=00FF7F)![IAM](https://img.shields.io/badge/IAM-%23000000?style=plastic&logoColor=white&labelColor=00FFFF)![MFA](https://img.shields.io/badge/MFA-%23000000?style=plastic&logoColor=white&labelColor=FF4500)![Investigation](https://img.shields.io/badge/Investigation-%23000000?style=plastic&logoColor=white&labelColor=FFD700)![Mitigation](https://img.shields.io/badge/Mitigation-%23000000?style=plastic&logoColor=white&labelColor=ADFF2F)![Risk Assessment](https://img.shields.io/badge/Risk_Assessment-%23000000?style=plastic&logoColor=white&labelColor=008B8B)![Disaster Recovery](https://img.shields.io/badge/Disaster_Recovery-%23000000?style=plastic&logoColor=white&labelColor=6A5ACD)![Windows](https://img.shields.io/badge/Windows-%23000000?style=plastic&logo=windows&logoColor=white&labelColor=0078D6)
 ![Linux](https://img.shields.io/badge/Linux-%23000000?style=plastic&logo=linux&logoColor=white&labelColor=FCC624)![macOS](https://img.shields.io/badge/macOS-%23000000?style=plastic&logo=apple&logoColor=white&labelColor=000000)
 ![Fraud Detection](https://img.shields.io/badge/Fraud_Detection-%23000000?style=plastic&logo=shield&logoColor=white&labelColor=FF4500)
 
-
+## **🐍 Languages Used**:
+![Python](https://img.shields.io/badge/Python-%23000000?style=plastic&logo=python&logoColor=white&labelColor=3776AB)![Bash](https://img.shields.io/badge/Bash-%23000000?style=plastic&logo=gnu-bash&logoColor=white&labelColor=4EAA25)
 
 ## **🌟 AWS Cloud Security Projects / Certs Tips 🛠️** :
 
 Check out my collection of AWS Architecture projects where I design solutions based on real-life scenarios and/or I create full articles to breakdown difficult concepts into easy ones :
 
 - **[ 🎉 Mastering the AWS Certified Cloud Practitioner (CCP) Exam](https://github.com/Kzax01/Master-the-AWS-cloud-practitioner-cert)**
-- **[🛒 How to Migrate an E-commerce Website with Variable Traffic to AWS](https://github.com/Kzax01/AWS-E-commerce-migration-architecture)**
 - **[🎯 Looking to pass the AWS Solution Architect Associate (SAA) ? Checkout my guide, tips, insight](https://github.com/Kzax01/Cracking-the-AWS-SAA-Exam-Tips-Resources-and-My-Personal-Experience)**
 
-  # -> **🚧 AWS Security projects coming soon! 🚧**
+---
 
+# ➡️ I am currently remaking my whole GitHub – put some projects in private and reworking everything. (You know me, it'll be worth the wait 😜).  
 
-## **🐍 Languages Used**:
-![Python](https://img.shields.io/badge/Python-%23000000?style=plastic&logo=python&logoColor=white&labelColor=3776AB)![Bash](https://img.shields.io/badge/Bash-%23000000?style=plastic&logo=gnu-bash&logoColor=white&labelColor=4EAA25)
+To make you patient, do not hesitate to check out my articles on cloud security computing.  
+_Spoiler alert:_ If you liked my GitHub's cyberpunk vibe, you won’t be disappointed!  
+
+- [🚨 AWS & Exposed Credentials: The Mistake That Can Ruin You (And How To Avoid It — I got you!)](https://medium.com/@Kenza.In.The.Cloud/aws-exposed-credentials-the-mistake-that-can-ruin-you-and-how-to-avoid-it-i-got-you-722c464a0575)  
+- [🚨 70% of Cloud Breaches Start Here: The Misconfiguration Attack Explained ⚙️](https://medium.com/@Kenza.In.The.Cloud/70-of-cloud-breaches-start-here-the-misconfiguration-attack-explained-%EF%B8%8F-3b7403559432)  
+- [🌊 DDoS Attacks in AWS Cloud: When Your Server Drowns Under Requests 💥](https://medium.com/aws-tip/ddos-attacks-in-aws-cloud-when-your-server-drowns-under-requests-825c3b265016)  
+
+# 🚧 **AWS Security projects coming soon!** 🚧  
+
+---
 
 ## 💬 Let’s Connect!  
 Thank you for visiting my GitHub! 🌸  
