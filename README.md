@@ -46,7 +46,8 @@ _Spoiler alert:_ If you liked my GitHub's cyberpunk vibe, you won’t be disappo
 
 - [🚨 AWS & Exposed Credentials: The Mistake That Can Ruin You (And How To Avoid It — I got you!)](https://medium.com/@Kenza.In.The.Cloud/aws-exposed-credentials-the-mistake-that-can-ruin-you-and-how-to-avoid-it-i-got-you-722c464a0575)  
 - [🚨 70% of Cloud Breaches Start Here: The Misconfiguration Attack Explained ⚙️](https://medium.com/@Kenza.In.The.Cloud/70-of-cloud-breaches-start-here-the-misconfiguration-attack-explained-%EF%B8%8F-3b7403559432)  
-- [🌊 DDoS Attacks in AWS Cloud: When Your Server Drowns Under Requests 💥](https://medium.com/aws-tip/ddos-attacks-in-aws-cloud-when-your-server-drowns-under-requests-825c3b265016)  
+- [🌊 DDoS Attacks in AWS Cloud: When Your Server Drowns Under Requests 💥](https://medium.com/aws-tip/ddos-attacks-in-aws-cloud-when-your-server-drowns-under-requests-825c3b265016)
+- [💰Cryptojacking: When Attackers Hijack Your Cloud to Mine Money🏴‍☠️](https://medium.com/@Kenza.In.The.Cloud/cryptojacking-when-hackers-hijack-your-cloud-to-mine-money-️-fd0f316154cb)
 
 # 🚧 **AWS Security projects coming soon!** 🚧  
 
