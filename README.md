@@ -51,13 +51,13 @@
 
 | **Category** | **Project** | **Description** |
 |-------------|------------|----------------|
-| 🔑 **Data Protection & Compliance** | [AWS KMS](https://github.com/Kzax01/AWS-Security-Aerosecure/tree/main/AWS%20Key%20Management%20Service%20(KMS)) | Secure sensitive data with AWS Key Management Service. |
-| 📂 **IAM Security** | [Limit Privileged Access](https://github.com/Kzax01/AWS-Security-Aerosecure/tree/main/IAM/01_Limiting_Privileged_Access_IAM) | Implement IAM policies to restrict privileges. |
-|  | [Monitor IAM Activity](https://github.com/Kzax01/AWS-Security-Aerosecure/tree/main/IAM/02_Monitoring_Users_AWS_IAM) | Track and audit user actions in AWS IAM. |
-| 🌐 **Network & Application Security** | [AWS WAF](https://github.com/Kzax01/AWS-Security-Aerosecure/tree/main/Implementing_AWS_WAF) | Protect web apps against common attacks. |
+| 🔑 **Data Protection & Compliance** | [AWS KMS](https://github.com/Kzax01/AWS-Security-Aerosecure/tree/main/Data%20Protection%20-%20AWS%20Key%20Management%20Service%20(KMS)) | Secure sensitive data with AWS Key Management Service. |
+| 📂 **IAM Security** | [Limit Privileged Access](https://github.com/Kzax01/AWS-Security-Aerosecure/tree/main/Access%20Control%20IAM%20-%20Limiting%20Privileged%20Access%20%26%20User%20Monitoring/01_Limiting_Privileged_Access_IAM) | Implement IAM policies to restrict privileges. |
+|  | [Monitor IAM Activity](https://github.com/Kzax01/AWS-Security-Aerosecure/tree/main/Access%20Control%20IAM%20-%20Limiting%20Privileged%20Access%20%26%20User%20Monitoring/02_Monitoring_Users_AWS_IAM) | Track and audit user actions in AWS IAM. |
+| 🌐 **Network & Application Security** | [AWS WAF](https://github.com/Kzax01/AWS-Security-Aerosecure/tree/main/Web%20Defense%20-%20Implementing%20AWS%20WAF) | Protect web apps against common attacks. |
 |  | [VPC Flow Logs](https://github.com/Kzax01/AWS-Security-Aerosecure/tree/main/Secure_VPC_Flow_Logs) | Detect and monitor VPC threats. |
-| 🚨 **Threat Detection & Incident Response** | [AWS Security Hub](https://github.com/Kzax01/AWS-Security-Aerosecure/tree/main/SecurityHub/01_Implementing_AWS_Security_Hub) | Centralize security alerts with AWS Security Hub. |
-|  | [Threat Detection & Response](https://github.com/Kzax01/AWS-Security-Aerosecure/tree/main/SecurityHub/02_Identifying_Threats_AWS_Security_Hub) | Detect and remediate AWS threats. |
+| 🚨 **Threat Detection & Incident Response** | [AWS Security Hub](https://github.com/Kzax01/AWS-Security-Aerosecure/tree/main/Threat%20Detection%20-%20AWS%20Security%20Hub/01_Implementing_AWS_Security_Hub) | Centralize security alerts with AWS Security Hub. |
+|  | [Threat Detection & Response](https://github.com/Kzax01/AWS-Security-Aerosecure/tree/main/Threat%20Detection%20-%20AWS%20Security%20Hub/02_Identifying_Threats_AWS_Security_Hub) | Detect and remediate AWS threats. |
 
 🚀 _More AWS Security Projects Coming Soon!_ 
 
