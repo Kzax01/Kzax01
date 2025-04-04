@@ -73,6 +73,11 @@ I also share insights, tips on how to protect your cloud on **Medium** (in Engli
   ➡ [Cloud Sec - Medium in French](https://medium.com/@Kenza.In.The.Cloud.FR)
 
 
+> 📌 All of my visuals (github / Medium) are protected under a copyrighted licence : [![CC BY-NC 4.0](https://img.shields.io/badge/CC%20BY%2DNC%204.0-neon%20pink?style=flat&logo=creativecommons)](https://creativecommons.org/licenses/by-nc/4.0/)
+
+
+
+
 ---
 
 ## 💬 Let’s Connect!  
