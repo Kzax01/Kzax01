@@ -3,7 +3,6 @@
 </div>
 
 
-
 <p align="center"><em>Feel free to explore my journey towards becoming an AWS Cloud Security Engineer! 🚀</em></p>
 
 
