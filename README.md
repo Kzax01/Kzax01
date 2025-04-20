@@ -69,6 +69,7 @@ I also share insights, tips on how to protect your cloud on **Medium** (in Engli
 - [🚨 70% of Cloud Breaches Start Here: The Misconfiguration Attack Explained ⚙️](https://medium.com/@Kenza.In.The.Cloud/70-of-cloud-breaches-start-here-the-misconfiguration-attack-explained-%EF%B8%8F-3b7403559432)  
 - [🌊 DDoS Attacks in AWS Cloud: When Your Server Drowns Under Requests 💥](https://medium.com/aws-tip/ddos-attacks-in-aws-cloud-when-your-server-drowns-under-requests-825c3b265016)
 - [💰Cryptojacking: When Attackers Hijack Your Cloud to Mine Money🏴‍☠️](https://medium.com/@Kenza.In.The.Cloud/cryptojacking-when-hackers-hijack-your-cloud-to-mine-money-️-fd0f316154cb)
+- [☠️ Ransomware on AWS: Break It Down. Detect It Fast. 🚨](https://medium.com/bugbountywriteup/aws-cloud-ransomware-anatomy-of-a-digital-hostage-crisis-4805ded3ff81)
 
   ➡ [Cloud Sec - Medium in French](https://medium.com/@Kenza.In.The.Cloud.FR)
 
