@@ -15,7 +15,12 @@
 
 ## 🚀 In Progress : 
 
- ![AWS Certified Security Specialty](https://img.shields.io/badge/AWS%20Certified%20Security%20Specialty-%23000000?style=plastic&logo=amazon-aws&logoColor=white&labelColor=ff4f00) ![Progress Soon](https://img.shields.io/badge/Progress-Soon-%237F5FB3?style=flat-square&labelColor=black)
+
+![Amazon Cloud Red Team Professional](https://img.shields.io/badge/Amazon%20Cloud%20Red%20Team%20Professional-%23000000?style=plastic&logo=amazon-aws&logoColor=white&labelColor=FFD700) ![Progress 60%](https://img.shields.io/badge/Progress-60%25-7F5FB3?style=flat-square&labelColor=black)
+
+
+![AWS Certified Security Specialty](https://img.shields.io/badge/AWS%20Certified%20Security%20Specialty-%23000000?style=plastic&logo=amazon-aws&logoColor=white&labelColor=ff4f00) ![Progress Soon](https://img.shields.io/badge/Progress-Soon-%237F5FB3?style=flat-square&labelColor=black)
+
 
 
 # **🔐 Cloud Security Expertise** : 
